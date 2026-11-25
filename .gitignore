@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+outputs/
+*.log
+weights/*.ckpt
+weights/**/.cache/
+weights/.cache/
+*.safetensors
+*.pt
+*.pth
+*.mp4
+.env

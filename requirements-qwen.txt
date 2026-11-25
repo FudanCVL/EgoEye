@@ -1,0 +1,8 @@
+transformers==4.57.1
+peft==0.18.1
+accelerate==1.11.0
+numpy==1.26.4
+pandas==2.2.3
+pyarrow==19.0.1
+qwen-vl-utils==0.0.14
+llamafactory @ git+https://github.com/hiyouga/LLaMA-Factory.git@92fa3df4c4e4e338ecc1cbdc6530b118337286e3
